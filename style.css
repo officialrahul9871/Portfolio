@@ -1,0 +1,14 @@
+/* .a,.b,.c,select{height: 25px; width: 80%;
+    margin: 3px 10%;
+}
+textarea{height: 100px; width: 80%; margin: 3px 10%;}
+.add{height: 50px; width: 150px; background-color: orange;} */
+
+[type="text"], [type="number"],[type="email"],select{
+    height: 25px; width: 80%; margin: 3px 10%;
+}
+textarea{ height: 100px; width: 80%; margin: 3px 10%;}
+[type="submit"]{
+    height: 50px; width: 150px; background-color: orange; margin-top: 10px; margin-left: 10%;
+}
+
